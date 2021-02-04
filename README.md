@@ -1,1 +1,1 @@
-![Pagina de captura funcional usando html && css && Mailchamp]()
+![Pagina de captura funcional usando html && css && Mailchamp](https://github.com/ViniciusLima10/Pagina-De-Captura/blob/main/assets/Screenshot_1.png)
